@@ -1,0 +1,8 @@
+nav {
+    &.sticky-top {
+        @extend %box-shadow;
+    }
+    .navbar-brand {
+        img{height: 54px;}
+    }
+}

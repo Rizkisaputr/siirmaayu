@@ -1,0 +1,275 @@
+#bodypage {
+	margin-top : 10px;
+	margin-bottom : 10px;
+	margin-right : 10px;
+	margin-left : 10px;
+	background-color : #F1F3F5;
+}
+#header {
+	padding : 0px 0px 0px 0px;
+	border-top: 2px solid #CCCCCC;
+	border-left: 2px solid #CCCCCC;
+	border-right: 2px solid #CCCCCC;
+	background-color : #FFFFFF;
+}
+#menubar {
+	background: #F1F3F5;
+	border-top: 2px solid #CCCCCC;
+	border-left: 2px solid #CCCCCC;
+	border-right: 2px solid #CCCCCC;
+	padding : 0px 5px 0px 0px;
+}
+#contentpage {
+	padding : 5px 5px 5px 5px;
+	background-color : #FFFFFF;
+	border: 2px solid #CCCCCC;
+	height : 350px;
+}
+#footer {
+	padding : 0px 0px 0px 0px;
+	text-align : right;
+	vertical-align : bottom;
+}
+td, div {
+	font-size : 11px;
+	font-family : Verdana, Sans;
+	color : #333333;
+}
+.input {
+	font-size : 11px;
+	font-family : Verdana, Sans;
+	color : #333333;
+	border : 1px solid #CCCCCC;
+	padding : 2px;
+}
+.inputdis {
+	font-size : 11px;
+	font-family : Verdana, Sans;
+	color : #333333;
+	border : 1px solid #CCCCCC;
+	padding : 2px;
+	background : #EEEEEE;
+}
+.btn {
+	font-size : 11px;
+	font-family : Verdana, Sans;
+	font-weight : bold;
+	border-top : 1px solid #AAAAAA;
+	border-left : 1px solid #AAAAAA;
+	border-right : 1px solid #333333;
+	border-bottom : 1px solid #333333;
+	color : #333333;
+	padding : 2px;
+	background : transparent;
+}
+.inputlogin {
+	font-size : 20px;
+	font-family : Verdana, Sans;
+	font-weight : bold;
+	color : #333333;
+	border : 2px solid #CCCCCC;
+	padding : 2px;
+}
+form {
+	margin-top : 0px;
+	margin-bottom : 0px;
+	margin-right : 0px;
+	margin-left : 0px;
+}
+fieldset { 
+	border : 1px solid #D7D6D1;
+	font-size : 11px;
+	font-family : Verdana, Sans;
+	padding : 5px 5px 5px 5px;
+}
+fieldset legend {
+	font-size : 11px;
+	font-family : Verdana, Sans;
+	font-weight : bold;
+	color : #205DDA;
+}
+.updated {
+	background: #CFEBF7 url(../images/menu/16/notice.gif) no-repeat 5px;
+	border: 1px solid #2580B2;
+	padding: 15px 5px 15px 25px;	
+	margin-bottom : 2px;
+}
+.error {
+    background: #FFEFF7 url(../images/menu/16/warning.png) no-repeat 5px;
+	border: 1px solid #C69;
+	padding: 15px 5px 15px 25px;
+	color : red;
+	margin-bottom : 2px;
+}
+.tableborder {
+	border : 1px solid #CCCCCC;
+	background : #FAFAFA;
+}
+.tabletitle {
+	font-weight : bold;
+	text-align : center;
+	background : #CCCCCC;
+} 
+.tabletitle2 {
+	font-weight : bold;
+	background : #CCCCCC;
+	padding: 5px 25px 5px 10px;
+} 
+.tablelist1 {
+	background : #F1F1F1;
+	border-bottom : 1px solid silver;
+} 
+.tablelist2 {
+	background : #FAFAFA;
+	border-bottom : 1px solid silver;
+}
+.tablelist3 {
+	background : #E1E1E1;
+	border-bottom : 1px solid gray;
+	border-top : 1px solid gray;
+}
+.edit1, .del1 {
+	background : #F1F1F1;
+	text-align : center;
+	padding : 0px 0px 0px 0px;
+	border-bottom : 1px solid silver;
+}
+.edit3, .del3{
+	background : #E1E1E1;
+	text-align : center;
+	padding : 0px 0px 0px 0px;
+	border-bottom : 1px solid gray;
+	border-top : 1px solid gray;
+}
+.edit2, .del2{
+	background : #FAFAFA;
+	text-align : center;
+	padding : 0px 0px 0px 0px;
+	border-bottom : 1px solid silver;
+}
+.edit1 a, .edit2 a, .edit3 a  {
+	color : blue;
+	text-decoration : none;
+	display: block;
+	padding : 3px 3px 3px 3px;
+}
+.del1 a, .del2 a, .del3 a {
+	color : blue;
+	text-decoration : none;
+	display: block;
+	padding : 3px 3px 3px 3px;
+}
+#message a {
+	color : crimson;
+	font-weight : bold;
+	text-decoration : none;
+	padding : 3px 10px 3px 10px;
+	background : #CCCCCC;
+	border : 1px solid gray;
+}
+.edit1 a:hover, .edit2 a:hover, .edit3 a:hover {
+	background : #CCCCCC;
+}
+.del1 a:hover, .del2 a:hover, .del3 a:hover, #message a:hover{
+	color : white;	
+	background : red;
+}
+#paging {
+	font : bold 12px Verdana;
+}
+#paging a {
+	padding : 3px 10px 3px 10px;
+	text-decoration : none;
+	color : black;
+	background : #F0FFFF;
+	border : 1px solid silver;
+}
+#paging a:hover {
+	background : #CCCCCC;
+}
+#extitle {
+	background : #EFEFEF url(images/tablet.png) no-repeat right;
+	font-weight : bold;
+	font-style : italic;
+}
+.tblawal1 {
+	border:1px solid black;
+}
+.tblakhir1 {
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+}
+.tblkosong1 {
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+}
+.tblawal2 {
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+}
+.tblakhir2 {
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+}
+.tblkosong2 {
+	border-bottom:1px solid black;
+}
+.tblawal3 {
+	border-left:1px solid black;
+	border-top:1px solid black;
+	border-right:1px solid black;
+}
+.tblakhir3 {
+	border-top:1px solid black;
+	border-right:1px solid black;
+}
+#titlebar {
+	border:1px solid #CCCCCC;
+	background:#F1F3F5;
+	padding : 5px;
+}
+.bmenu {
+	font-family:Tahoma,Verdana,Arial, sans-serif;font-size:11px;color:#ffffff; TEXT-DECORATION: none
+}
+.bmenu:hover {
+	font-family:Tahoma,Verdana,Arial, sans-serif;font-size:11px;color:#D7F611; TEXT-DECORATION: none
+}
+.bordered {
+	margin-top:20px;
+	margin-left: auto;
+    margin-right: auto;
+	WIDTH:98%; 
+	border: solid #000 2px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+ 	color:#000;
+	font-size : 12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+    border-bottom: 5px solid #F0CB00;
+	BORDER-BOTTOM: #FFF 1px solid; 
+	BORDER-LEFT: #FFF 1px solid; 
+	BORDER-RIGHT: #FFF 1px solid; 
+	BORDER-TOP: #FFF 1px solid; 
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	PADDING-TOP: 0px;
+	text-align:center;
+}
+
+.bordered tr {
+    /*background: #efefef;*/
+}    
+
+    
+.bordered td, .bordered th {
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding: 5px;
+}
+

@@ -1,0 +1,138 @@
+div#contScreen {
+	font-size:21px;
+	font-family: nevis,Arial,sans-serif;
+	width: 100%;
+	height: 100%;
+	left :0;
+	right :0;
+	top:0;
+	margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    border: 0px;
+	color : #FFF;
+}
+#titlebarScreen {
+	width:98%;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 0px;
+	padding-top : 5px;
+	padding-left : 10px;
+	font-weight : bold;
+	text-align:center;
+	font-size : 40px;
+	font-family : qlassik, Arial, Verdana, Sans;
+	color : #FFF;
+	HEIGHT: 70px;
+	border : 1px dashed #FFF;
+	-moz-border-radius: 1em 1em 1em 1em;
+	border-radius: 0.5em 0.5em 0.5em 0.5em;
+	-webkit-box-shadow:  0px 1px 0px  rgba(255,255,255,1.8) inset; 
+    -moz-box-shadow: 0px 1px 0px  rgba(255,255,255,1.8) inset;  
+    box-shadow:  0px 0px 2px rgba(255,255,255,1.8) inset;        
+background: -webkit-gradient(linear, left top, left bottom, from(#aebaf8), to(#99ccff));
+	background: -moz-linear-gradient(top,  #aebaf8,  #708CD8);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#aebaf8', endColorstr='#708CD8');
+/*	background: -webkit-gradient(linear, left top, left bottom, from(#F0CB00), to(#EDCE20));
+	background: -moz-linear-gradient(top,  #F0CB00,  #EDCE20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#F0CB00', endColorstr='#EDCE20');
+  */
+    text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.9);
+
+}
+.igdTabel {
+	margin-top:20px;
+	border: solid #efefef 1px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-box-shadow: 0 1px 1px #ccc; 
+    -moz-box-shadow: 0 1px 1px #ccc; 
+    box-shadow: 0 1px 1px #ccc;         
+	margin-left: auto;
+    margin-right: auto;
+	color:#000;
+	font-size : 12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+    border-bottom: 5px solid #F0CB00;
+}
+
+.igdTabel tr:hover {
+    background: #fbf8e9;
+    -o-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;     
+}    
+    
+.igdTabel td, .igdTabel th {
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #fff;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #fff;
+    padding: 5px;
+}
+
+.igdTabel th {
+    background-color: #FFF;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#efefef), to(#fff));
+    background-image: -webkit-linear-gradient(top, #efefef, #fff);
+    background-image:    -moz-linear-gradient(top, #efefef, #fff);
+    background-image:     -ms-linear-gradient(top, #efefef, #fff);
+    background-image:      -o-linear-gradient(top, #efefef, #fff);
+    background-image:         linear-gradient(top, #efefef, #fff);
+    -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset; 
+    -moz-box-shadow:0 1px 0 rgba(255,255,255,.8) inset;  
+    box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;        
+    text-shadow: 0 1px 0 rgba(255,255,255,.9); 
+	color:#00f;
+	font-size : 12px;
+	font-family : proxima, Sans;
+	font-weight : bold;
+   border-bottom: 1px solid #ccc;
+}
+
+.igdTabel td:first-child, .igdTabel th:first-child {
+    border-left: none;
+}
+
+.igdTabel th:first-child {
+    -moz-border-radius: 6px 0 0 0;
+    -webkit-border-radius: 6px 0 0 0;
+    border-radius: 6px 0 0 0;
+}
+
+.igdTabel th:last-child {
+    -moz-border-radius: 0 6px 0 0;
+    -webkit-border-radius: 0 6px 0 0;
+    border-radius: 0 6px 0 0;
+}
+
+.igdTabel th:only-child{
+    -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+}
+
+.igdTabel tr:last-child td:first-child {
+    -moz-border-radius: 0 0 0 6px;
+    -webkit-border-radius: 0 0 0 6px;
+    border-radius: 0 0 0 6px;
+}
+
+.igdTabel tr:last-child td:last-child {
+    -moz-border-radius: 0 0 6px 0;
+    -webkit-border-radius: 0 0 6px 0;
+    border-radius: 0 0 6px 0;
+}
+.fontkecil {
+	font-size: 11px; 
+	color: #011240;
+	font-family: 'Lucida Grande',,Arial; 
+	text-decoration: none;
+	left:0;right:0;
+
+	}

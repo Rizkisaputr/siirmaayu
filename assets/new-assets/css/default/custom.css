@@ -1,0 +1,38 @@
+body {
+    background: #6eb5fc;
+    font-size: 12px;
+    font-family: 'Open Sans',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #707478;
+    line-height: 1.42857143;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.content {
+    margin-left: 220px!important;
+    padding: 10px 15px!important;
+}
+.has-search .form-control-feedback {
+    right: initial;
+    left: 0;
+    color: #ccc;
+}
+
+.has-search .form-control {
+    padding-right: 12px;
+    padding-left: 34px;
+}
+.navbar-brand {
+    font-size: 11px;
+    font-weight: 600;
+    color: #000!important;
+}
+.logo {
+    width: auto;
+    height: 40px;
+    object-fit: contain;
+    margin-right: 4px;
+}
+/*.caret{
+    margin-top: -4px!important;
+}*/

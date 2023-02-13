@@ -1,0 +1,2235 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: //ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="content-language" content="id" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="canonical" href="//rsudcibabat.cimahikota.go.id/" />
+
+<title>JADWAL DOKTER RSUD CIBABAT</title>
+
+<meta name="description" content="JADWAL DOKTER RSUD CIBABAT" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta name="facebot" content="index, follow" />
+<meta name="bingbot" content="index, follow" />
+<meta name="web_author" content="Sukma Budi - STUDIS1593" />
+
+<meta property="og:locale" content="id" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="JADWAL DOKTER RSUD CIBABAT" />
+<meta property="og:title" content="JADWAL DOKTER RSUD CIBABAT" />
+<meta property="og:description" content="JADWAL DOKTER RSUD CIBABAT" />
+<meta property="og:url" content="//rsudcibabat.cimahikota.go.id/" />
+<meta property="og:image" content="//res.cloudinary.com/rsudcibabat/image/upload/v1571886912/assets/logo/rs-logo-glow.jpg" />
+<meta property="og:image:type" content="image/jpg" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:alt" content="RSUD CIBABAT LOGO" />
+
+<link rel="icon" type="image/png" sizes="32x32" href="//res.cloudinary.com/rsudcibabat/image/upload/v1571887035/assets/favicon/favicon-32x32.png" />
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css" />
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css" />
+<link rel="stylesheet" href="//res.cloudinary.com/rsudcibabat/raw/upload/v1575645234/assets/fonts/lato.css" />
+<link rel="stylesheet" href="../css/rsapi-pemirsa.css" />
+
+</head>
+<body>
+
+
+<div class="jadwalSlider">
+
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">ADE YUDISMAN,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.PD</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/22/Dinkes/TM-1/I/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK PENYAKIT DALAM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-11:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-11:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">DIAH AYU ARYATI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.PD</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/180/Dinkes/TM-1/V/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK PENYAKIT DALAM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">DIANA SUSPASARI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.PD</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446/171/Yanmedik/TM-1/XI/2015</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK PENYAKIT DALAM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-14:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">HENDRI PRIYADI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.PD</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/49/DINKES/TM-2/III/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK PENYAKIT DALAM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">KEMALA</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.PD</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446/48/YANMEDIK/TM-1/V/2015</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK PENYAKIT DALAM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">MIRA HASMIRANI</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.PD</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/179/Dinkes/TM-1/VI/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK PENYAKIT DALAM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:30-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">LUSI HERIYANTO,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr. H.,&nbsp;&nbsp;Sp.B</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/277/DINKES/TM-1/XI/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK BEDAH</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">KRYSNA RYCHIE REYNALDI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.B</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/93/Dinkes/TM-1/V/2018</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK BEDAH</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">JACHJA ACHMAD,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.OT</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/102/Dinkes/TM-2/VI/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK ORTOPAEDI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">SANDY ARMANDHA A.DJ,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.OT</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/82/DINKES/TM-1/V/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK ORTOPAEDI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">ANNI ROTA RIMBUN SILITONGA</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.S</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/80/Dinkes/TM-2/IV/2019</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK NEUROLOGI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">MEDIA YUNI KURNIAWATI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp. S</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/69/Dinkes/TM-2/IV/2018</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK NEUROLOGI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-12:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">RUDI SUKMAJI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.S</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/137/Dinkes/TM-1/VII/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK NEUROLOGI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">10:00-12:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">SARI DEWI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr,&nbsp;&nbsp;RM</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 440/59/Yanmedik/TM-1/VI/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK REHABILITASI MEDIS</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;E&nbsp;&nbsp;LANTAI&nbsp;&nbsp;1</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-13:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-13:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-13:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-09:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-09:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-09:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">HENNY LUTHFIANINGRUM,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.KFR</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/09/DINKES/TM-1/I/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK REHABILITASI MEDIS</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;E&nbsp;&nbsp;LANTAI&nbsp;&nbsp;1</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">GLEN MARION MOSE</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.OG</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/294/DINKES/TM-1/XI/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK KEBIDANAN</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">JEFFRY IMAN GURNADI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp. OG</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/42/Dinkes/TM-2/I/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK KEBIDANAN</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">LIES ANI TAMBUNAN,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.OG</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/222/Dinkes/TM-2/X/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK KEBIDANAN</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">NOGI E PRASETYO,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.OG</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/232/Dinkes/TM-1/XII/2018</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK KEBIDANAN</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">TESA,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr,&nbsp;&nbsp;Sp.A</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/283/Dinkes/TM-1/XI/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK KESEHATAN ANAK</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">ASEP NUGIE NUGRAHA,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.A</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/298/Dinkes/TM-1/XI/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK KESEHATAN ANAK</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">DEVI ANDARWATI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.A</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/252/Dinkes/TM-1/X/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK KESEHATAN ANAK</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">DEWI MULYANI IRIANTI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp. A, M.K</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/167/DINKES/TM-1/IX/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK KESEHATAN ANAK</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">MAULINA Z KARTASASMITA,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.M</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/289/Dinkes/TM-1/XI/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK MATA</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-13:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">NOVI SEKAR SARI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.M</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/77/Dinkes/TM-1/IV/2019</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK MATA</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-13:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-13:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-13:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">JUDIAWATI HAYAT,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.THT</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/168/Dinkes/TM-1/IX/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK THT</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">PW. PRASETIANINGSIH,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Mkes, Sp T</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/192/Dinkes/TM-1/VII/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK THT</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:30-13:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">DIANA WIJAYANTI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.KK</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/242/Dinkes/TM-1/X/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK KULIT DAN KELAMIN</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-11:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">SRI WAHYUNI SETIAWATI, SP.KGA</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.KGA</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/276/Dinkes/TM-1/XI/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK GIGI DAN MULUT</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">BETTY GUNEFIANAWATI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">drg.</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.3/245/DINKES/TM-1/X/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK GIGI DAN MULUT</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">DEWI AMISANI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">drg.,&nbsp;&nbsp;MM</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.3/120/Dinkes/TM-3/VII/2018</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK GIGI DAN MULUT</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">DIAH PENI WIDAYATI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">Drg.</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.4/156/Dinkes/TM-3/IX/2018</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK GIGI DAN MULUT</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">NAGAGARIN SIHOTANG,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">drg.,&nbsp;&nbsp;Sp.BM</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.4/247/Dinkes/TM-2/X/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK GIGI DAN MULUT</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-11:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">ANNA AMALIANA,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.KJ</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/290/Dinkes/TM-1/XI/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK JIWA</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;LAMA</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">TITIN,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.KJ</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446/15/Yanmedik/TM-1/II/2015</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK JIWA</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;LAMA</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">DENNY OSKAR YUSWANA,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.1/59/Dinkes/TM-1/II/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK UMUM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">GABRIELLA NATALIA,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;MKes</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.1/281/Dinkes/TM-1/XI/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK UMUM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">STENNY YOLANDA,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.1/58/Dinkes/TM-1/II/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK UMUM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">TJETJEP RAHAYU,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.1/91/Dinkes/TM-3/III/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK UMUM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">TRINIYANTI EDYANINGSIH, DR</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.1/334/Dinkes/TM-1/XII/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK UMUM</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">KUSTIONO HELIAWAN,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.BS</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/357/DINKES/TM-3/XII/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK BEDAH SYARAF</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">MIRA RAHMAWATI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.JP</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/137/Dinkes/TM-2/VIII/2018</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK JANTUNG</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">PRIYANTO UTOMO</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.JP</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/236/Dinkes/TM-1/XII/2018</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK JANTUNG</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">ROBIN HENDRA WIBOWO,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.J</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/24/DINKES/TM-1/II/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK JANTUNG</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;B&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">ADHI NUGRAHA HADINATA</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp,B,K.Onk</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/284/DINKES/TM-1/XI/2016</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK BEDAH ONKOLOGI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">IRVAN OCTAVIAN SUPARDI</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.U</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446/40/Yanmed/TM-1/V/2015</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK UROLOGI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-12:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">TAUFIQ SAKTI NOER HIDAYAT,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;MM., Sp.BP</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/47/Dinkes/TM-1/III/2019</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK BEDAH PLASTIK</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14:30</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">LAELY YUNIASARI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.B.,KBD.</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/41/Dinkes/TM-1/I/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK BEDAH DIGESTIF</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-14:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">ANDIKA AHADYAT LUKMAN</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.AN</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/46/Dinkes/TM-1/I/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK ANESTHESI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SENIN</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SABTU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">LUCKY RADITYA GIRIARDI,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.B</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446/168/Yanmedik/TM-1/XI/2015</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK ANESTHESI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">RABU</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">NUR INTAN NASUTION,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">dr.,&nbsp;&nbsp;Sp.An</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446/68/Yanmedik/TM-1/VI/2015</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK ANESTHESI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">SELASA</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">JUMAT</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">09:00-13:00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+	
+	<div class="box is-radiusless has-background-black-transparent">
+		<table class="jadwal table is-fullwidth">
+			<tbody>
+				<tr>
+					<td colspan="3" class="has-text-centered has-text-white">
+						<div class="is-size-5 has-text-yellow has-text-weight-bold bottom-10" style="line-height:1;">H. NUZIRWAN ACANG,</div>
+						<div class="title is-size-6 has-text-white has-text-weight-bold">Prof.dr,&nbsp;&nbsp;DTM&H., Sp</div>
+						<div class="subtitle is-size-7 has-text-white">SIP: 446.2/253/Dinkes/TM-1/X/2017</div>
+						<div class="is-size-6 has-text-weight-bold has-background-link-transparent button is-small is-radiusless is-fullwidth is-outlined is-link" onclick="window.parent.openContent(this.dataset.menu)" data-menu="menu-rajal"><span class="has-text-white">KLINIK HEMATO ONKOLOGI</span></div>
+						<div class="tags has-addons is-centered" style="margin-bottom:.2rem;">
+							<div class="tag is-pointer is-radiusless is-link" onclick="window.open('https://res.cloudinary.com/rsudcibabat/image/upload/v1571888208/assets/denah/DENAH-POLIKLINIK_jowtp1.jpg','_blank')">GEDUNG&nbsp;&nbsp;C&nbsp;&nbsp;LANTAI&nbsp;&nbsp;2</div>
+						</div>
+					</td>
+				</tr>
+								<tr class="has-text-white">
+					<td class="is-size-6 has-text-right">KAMIS</td>
+					<td class="is-size-6 has-text-centered">:</td>
+					<td class="is-size-6 has-text-left">08:00-14.00</td>
+				</tr>
+							</tbody>
+		</table>
+	</div>
+	
+
+</div>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', ()=> {
+	
+	if (document.querySelector('.jadwalSlider')){
+		
+		let slider = tns({
+			container: ".jadwalSlider",
+			//axis: "vertical",
+			responsive: {
+				420: {
+					items: 1,
+					gutter: 16
+				},
+				675: {
+					items: 2,
+					gutter: 16
+				},
+				768: {
+					items: 2,
+					gutter: 16
+				},
+				834: {
+					items: 3,
+					gutter: 16
+				},
+				1023: {
+					items: 4,
+					gutter: 16
+				},
+				1920: {
+					items: 5,
+					gutter: 16
+				}
+			},
+			touch: true,
+			mouseDrag: true,
+			controlsContainer: false,
+			controls: false,
+			nav: false,
+			speed: 400,
+			autoplayTimeout: 5000,
+			autoHeight: false,
+			autoplay: true,
+			autoplayButtonOutput: false,
+			autoplayButton: false
+		});
+		
+	}
+	
+	let jmlRefresh = 3600000; //1 Jam refresh bila error refresh dalam 15 detik
+	setTimeout(function(){window.location.reload();}, jmlRefresh);
+	
+});
+</script>
+</body>
+</html>

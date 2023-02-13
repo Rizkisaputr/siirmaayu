@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    &.info-window {
+        td:nth-last-child(odd) {
+            background: $primary;
+            color: $white;
+            font-weight: bold;
+        }
+    }
+    .thead-dark th {
+        background: $primary !important;
+        border-color: darken($color: $primary, $amount: 10) !important;
+        vertical-align: middle;
+        text-align: center;
+    }
+}
